@@ -547,16 +547,16 @@ body {
   background-color: var(--cultured, #f5f5f5);
 }
 
-.contact-section .section-title {
-  font-size: var(--fs-2);
+.contact .section-title {
+  /* font-size: var(--fs-2); */
   font-weight: var(--fw-700);
   text-align: center;
   margin-bottom: 10px;
 }
 
-.contact-section .section-subtitle {
-  font-size: var(--fs-5);
-  color: var(--text-light, #666);
+.contact .section-subtitle {
+  /* font-size: var(--fs-5); */
+  /* color: var(--text-light, #666); */
   text-align: center;
   margin-bottom: 40px;
   max-width: 600px;
